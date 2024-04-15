@@ -1,0 +1,111 @@
+{
+  "1forge.com": {
+    "added": "2017-05-30T08:34:14.000Z",
+    "preferred": "0.0.1",
+    "versions": {
+      "0.0.1": {
+        "added": "2017-05-30T08:34:14.000Z",
+        "info": {
+          "contact": {
+            "email": "contact@1forge.com",
+            "name": "1Forge",
+            "url": "http://1forge.com"
+          },
+          "description": "Stock and Forex Data and Realtime Quotes",
+          "title": "1Forge Finance APIs",
+          "version": "0.0.1",
+          "x-apisguru-categories": [
+            "financial"
+          ],
+          "x-logo": {
+            "backgroundColor": "#24292e",
+            "url": "https://api.apis.guru/v2/cache/logo/https_1forge.com_assets_images_f-blue.svg"
+          },
+          "x-origin": [
+            {
+              "format": "swagger",
+              "url": "http://1forge.com/openapi.json",
+              "version": "2.0"
+            }
+          ],
+          "x-providerName": "1forge.com"
+        },
+        "updated": "2017-06-27T16:49:57.000Z",
+        "swaggerUrl": "https://api.apis.guru/v2/specs/1forge.com/0.0.1/swagger.json",
+        "swaggerYamlUrl": "https://api.apis.guru/v2/specs/1forge.com/0.0.1/swagger.yaml",
+        "openapiVer": "2.0"
+      }
+    }
+  },
+  "1password.com:events": {
+    "added": "2021-07-19T10:17:09.188Z",
+    "preferred": "1.0.0",
+    "versions": {
+      "1.0.0": {
+        "added": "2021-07-19T10:17:09.188Z",
+        "info": {
+          "description": "1Password Events API Specification.",
+          "title": "Events API",
+          "version": "1.0.0",
+          "x-apisguru-categories": [
+            "security"
+          ],
+          "x-logo": {
+            "url": "https://api.apis.guru/v2/cache/logo/https_upload.wikimedia.org_wikipedia_commons_thumb_e_e3_1password-logo.svg_1280px-1password-logo.svg.png"
+          },
+          "x-origin": [
+            {
+              "format": "openapi",
+              "url": "https://i.1password.com/media/1password-events-reporting/1password-events-api.yaml",
+              "version": "3.0"
+            }
+          ],
+          "x-providerName": "1password.com",
+          "x-serviceName": "events"
+        },
+        "updated": "2021-07-22T10:32:52.774Z",
+        "swaggerUrl": "https://api.apis.guru/v2/specs/1password.com/events/1.0.0/openapi.json",
+        "swaggerYamlUrl": "https://api.apis.guru/v2/specs/1password.com/events/1.0.0/openapi.yaml",
+        "openapiVer": "3.0.0"
+      }
+    }
+  },
+  "1password.local:connect": {
+    "added": "2021-04-16T15:56:45.939Z",
+    "preferred": "1.3.0",
+    "versions": {
+      "1.3.0": {
+        "added": "2021-04-16T15:56:45.939Z",
+        "info": {
+          "contact": {
+            "email": "support@1password.com",
+            "name": "1Password Integrations",
+            "url": "https://support.1password.com/"
+          },
+          "description": "REST API interface for 1Password Connect.",
+          "title": "1Password Connect",
+          "version": "1.3.0",
+          "x-apisguru-categories": [
+            "security"
+          ],
+          "x-logo": {
+            "url": "https://api.apis.guru/v2/cache/logo/https_upload.wikimedia.org_wikipedia_commons_thumb_e_e3_1password-logo.svg_1280px-1password-logo.svg.png"
+          },
+          "x-origin": [
+            {
+              "format": "openapi",
+              "url": "https://i.1password.com/media/1password-connect/1password-connect-api.yaml",
+              "version": "3.0"
+            }
+          ],
+          "x-providerName": "1password.local",
+          "x-serviceName": "connect"
+        },
+        "updated": "2021-07-26T08:51:53.432Z",
+        "swaggerUrl": "https://api.apis.guru/v2/specs/1password.local/connect/1.3.0/openapi.json",
+        "swaggerYamlUrl": "https://api.apis.guru/v2/specs/1password.local/connect/1.3.0/openapi.yaml",
+        "openapiVer": "3.0.2"
+      }
+    }
+  }
+}
